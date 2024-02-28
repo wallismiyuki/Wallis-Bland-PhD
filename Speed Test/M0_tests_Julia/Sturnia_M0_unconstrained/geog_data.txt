@@ -1,0 +1,23 @@
+22	8	(A B C D E G I J)
+Vampyriscus	00000101
+S_bidens	00011000
+S_nana	00001000
+S_aratathomasi	00111000
+S_hondurensis	01000000
+S_new_species1	01000000
+S_ludovici	00110001
+S_oporaphilum	00001000
+S_tildae	00001111
+S_perla	00100000
+S_koopmanhilli	00010000
+S_mordax	01000000
+S_magna	00011100
+S_bogotensis	00011000
+S_erythromos	00111001
+S_lilium	00000010
+S_parvidens	01000000
+S_new_species2	00100000
+S_new_species3	00000101
+S_angeli	10000000
+S_luisi	01111000
+S_paulsoni	10000000

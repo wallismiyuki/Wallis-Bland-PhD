@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:ClosedContinentalBoundary>
+            <gpml:identity>GPlates-63a20a26-4771-4033-bc02-944a7ea30e4a</gpml:identity>
+            <gpml:revision>GPlates-fb259e63-180e-4bb9-8518-f80ea76809f2</gpml:revision>
+            <gml:name>North America</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantPast</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>10005</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:boundary>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">76.073272536721248 -140.77327730894396 63.947796289878113 -169.44426192747866 53.569047320644181 -173.36292739092769 46.381743017844286 -154.23818888963933 34.340222627719442 -130.40230071262209 18.617037725920824 -117.13421630469563 11.253588727769369 -107.0577453966425 8.6937798428366637 -92.738449737184808 5.1355958027629418 -82.885370968056819 12.393461909916843 -79.449668786516298 16.388708862572766 -76.845529752881163 16.636900431467215 -66.386308226585712 23.308207424494832 -62.702666278266172 35.824045340575587 -52.341276975873235 46.430672168372375 -47.884313468483953 58.187384709524785 -51.617477392870846 58.256410534857764 -34.783524331014156 68.087037483889375 -12.658960356293607 78.666374023947469 6.3488938539798392 87.075614493166569 -25.915176240622401 83.335907646059894 -133.31105856863806 77.002704803253764 -143.73135476266251 75.455761055874845 -147.09635875253753 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:boundary>
+        </gpml:ClosedContinentalBoundary>
+    </gml:featureMember>
+</gpml:FeatureCollection>

@@ -1,0 +1,24 @@
+23	11	(A B C D E F G H I J K)
+Cyprinodon_rubrofluviatilis	00000000010
+Cyprinodon_pecosensis	01000000000
+Cyprinodon_bovinus	01000000000
+Cyprinodon_elegans	01000000000
+Cyprinodon_veronicae	01000000000
+Cyprinodon_alvarezi	01000000000
+Cyprinodon_macrolepis	01000000000
+Cyprinodon_eximius	01000000000
+Cyprinodon_pachycephalus	01000000000
+Cyprinodon_nazas	01000000000
+Cyprinodon_meeki	01000000000
+Cyprinodon_sp._Rio_Aguanaval	01000000000
+Cyprinodon_bifasciatus	01000000000
+Cyprinodon_atrorus	01000000000
+Cyprinodon_nevadensis	00000110000
+Cyprinodon_salinus	00000010000
+Cyprinodon_diabolis	00000100000
+Cyprinodon_fontinalis	01000000000
+Cyprinodon_macularius	00000000001
+Cyprinodon_eremus	00000000001
+Cyprinodon_pisteri	01000000000
+Cyprinodon_albivelis	01000000000
+Cyprinodon_radiosus	00000001000

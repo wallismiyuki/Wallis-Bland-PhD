@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:ClosedContinentalBoundary>
+            <gpml:identity>GPlates-d69ae0e8-ebb6-417a-ae49-81f94689a37f</gpml:identity>
+            <gpml:revision>GPlates-2bfc8518-1598-446b-b61b-fe4745295342</gpml:revision>
+            <gml:name>Eurasia</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantPast</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>10001</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:boundary>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">72.575543717539603 12.639542302481413 65.2604158444219 -5.4347868719394503 54.221348455477788 -17.96712484191378 44.179423168499078 -12.848967138832247 34.705966660747308 -9.2558889636816044 34.479374050983331 -4.9218962654728751 37.292865776597964 4.5951271711492865 38.411362750028083 12.477103787094928 34.949616061826319 21.949910053102428 34.533451824779455 32.572675824785605 24.178179277263705 37.396957762525503 14.336107043386617 43.760926508542106 14.732765653523312 54.524572627156708 16.319001136218915 64.11725190140902 9.9471910564717874 73.785548103528598 3.1158783538118735 82.156179180511572 -3.7870077715033088 95.327527090818421 -9.6546177559060737 108.69549597458375 -8.6832285188112337 119.04454241302388 -0.32503852143188522 128.39737155918777 -6.8666768534385723 129.36426681707357 -8.8087580216608092 136.78363823986857 -12.065971376677735 149.89962095218846 -6.6097875502089218 164.06063449805362 9.2230057334358371 145.04971719137728 16.62485386502172 132.61148733335935 25.131459581068363 136.87079539696438 32.281111076526145 145.16513763715585 44.16141864742648 158.29567613994294 53.710491957755217 170.2159152364155 59.276182881136286 178.22126872907771 67.272557636419705 -175.00779279920482 75.109569631556155 -177.76940516099125 83.642312899542929 134.04024233375887 83.060920736473221 69.131088320591033 78.942810881951345 23.126738505807282 71.701114334218161 10.725563312445429 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:boundary>
+        </gpml:ClosedContinentalBoundary>
+    </gml:featureMember>
+</gpml:FeatureCollection>

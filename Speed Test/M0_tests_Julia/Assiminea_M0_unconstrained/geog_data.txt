@@ -1,0 +1,13 @@
+12	11	(A B C D E F G H I J K)
+Assiminea_cienegensis	01000000000
+Assiminea_pecos	01000000000
+Assiminea_californica	00001000000
+Assiminea_infima	00000010000
+Assiminea_sp_A15	00000000001
+Assiminea_sp_A20A	00000100000
+Assiminea_sp_A25B	00000001000
+Assiminea_sp_A26A	00000010000
+Assiminea_sp_A26C	00000010000
+Assiminea_sp_A27A	00000010000
+Assiminea_sp_A28C	00010000000
+Assiminea_sp_A30B	00000010000

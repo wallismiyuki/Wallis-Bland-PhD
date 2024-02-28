@@ -1,0 +1,13 @@
+12	5	(K O I M H)
+O_calx	10000
+O_iudicium	10000
+O_bellum	10000
+O_ventus	10000
+O_malus	10000
+O_arcanus	01000
+O_ambersonorum	01000
+O_polites	01000
+O_falstaffius	00010
+O_graphicus	00001
+O_othello	00100
+O_macbeth	00100

@@ -1,0 +1,8 @@
+nodeIndex,PNnumber,Rnodenums,node_age,brlen,ancNodeIndex,leftNodeIndex,rightNodeIndex,nodeName,nodeType,hook,foss,reg,taxa
+1,1,1,0.0,1.0,3,-999,-999,chimp,tip,false,false,1,chimp
+2,2,2,0.0,1.0,3,-999,-999,human,tip,false,false,1,human
+4,3,3,0.0,2.0,5,-999,-999,gorilla,tip,false,false,1,gorilla
+6,4,4,0.0,3.0,7,-999,-999,orang,tip,false,false,1,orang
+7,-2,5,3.0,-999.0,-999,5,6,in07,root,false,false,1,"chimp,gorilla,human,orang"
+5,-3,6,2.0,1.0,7,3,4,in05,intern,false,false,1,"chimp,gorilla,human"
+3,-4,7,1.0,1.0,5,1,2,in03,intern,false,false,1,"chimp,human"
