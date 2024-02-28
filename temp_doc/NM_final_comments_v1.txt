@@ -1,0 +1,63 @@
+
+over the last 4 years --> over my Ph.D.
+
+NJM says: no need to emphasize that it was 4 years instead of 3 years.  Some foreign examiners think all PhDs are 5-6 years like in the USA, when really the British/Australia/NZ system is a 3-year project and therefore has a bit more limited goals/expectations.
+
+
+Shortened funding statement: it occurred to me that, technically, some of those other grants were not specifically aimed at funding your PhD, so might as well only mention the main one that was.
+
+
+
+Beginning of chapter 1: Don't put the Haeckel map as the very first thing, readers will think the topic is human races or something.  Move down to where Figure 1 is mentioned.
+
+
+The LAGRANGE program is "Lagrange" in Ree & Smith 2008, so let's just use that
+
+
+C: its processing power was fine, it just didn't have object-oriented features, etc.
+
+
+
+Add citations:
+
+Python in 1991 ([cite]), and R in 1993 ([cite])
+
+The (famous!) R citation is by University of Auckland researchers:
+
+Ihaka, R.; Gentleman, R. (1996). "R: A Language for Data Analysis and Graphics". Journal of Computational and Graphical Statistics. 5 (3): 299–314.
+
+
+
+
+
+"Geographic Isolation Threshold": The first time the "geographic isolation" threshold comes up, spend a little more time describing it.  What's confusing to the reader is that all the simulated areas are islands, so they are all "isolated" in that sense.  What you mean, I think, is "the total geographic isolation threshold", i.e. "the distance threshold beyond which dispersal is impossible."  I put language suggesting this in one or two spots.
+
+
+
+
+First citation for PhyBEARS or PhyloBits was in Gplates chapter:
+
+Using the PhyBEARS.jl and companion-package PhyloBits.jl (Matzke & Bland, 2024b)
+
+...make sure you include those citations when the packages are first mentioned in the thesis.
+
+
+
+Chapter 6 (I think)
+
+"more robust set of simulations" 
+
+--> Don't suggest your simulations were not robust!
+
+
+
+"More rigorous testing of this model would allow for us to trial the flexibility of our Distance Based SSSE model."
+
+...this invites the reviewers to think your work is not rigorous! Cutting it.
+
+
+
+
+common typos:
+
+researches -> researchers
